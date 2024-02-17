@@ -1,0 +1,2 @@
+Wed 02/14/2024 Kernel OS has ran a problem with system.exe stopcode: N/A 
+[Wed 02/14/2024] Kernel OS Shuttedown at 14:24:22.08 
